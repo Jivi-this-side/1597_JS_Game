@@ -4,4 +4,4 @@
 
 **In 2048 --- we uses multiples of 2 .... but in**
 
-**1597 --- I used Fibonnaci numbers {Ex; 1,1,3,4,.....}**
+**1597 --- I used Fibonnaci numbers {Ex; 1,1,2,3,4,.....}**

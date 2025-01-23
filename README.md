@@ -4,7 +4,7 @@
 
 **In 2048 --- we uses multiples of 2 .... but in**
 
-**1597 --- I used Fibonnaci numbers {Ex; 1,1,2,3,4,.....}**
+**1597 --- I used Fibonacci numbers {Ex; 1,1,2,3,5,.....}**
 
 
 ~ The Fibonacci series is a sequence of numbers where each number is the  sum of the two numbers before it.
